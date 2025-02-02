@@ -1,6 +1,6 @@
 # Basic-Information-of-chip-design-lecture-4
 Lecture 4:- Chip Design for High School
-
+ 
 Recall:-
 
 ![image](https://github.com/user-attachments/assets/3712b85e-09c5-47cf-84ff-d80f22c0d282)
